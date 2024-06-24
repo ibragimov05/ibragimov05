@@ -21,18 +21,19 @@
  </div>
  
 <div align="center"> 
-  <a href="ibragimovfazliddin17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/fazliddin-ibragimov" target="_blank">
+    <a href="https://linkedin.com/in/fazliddin-ibragimov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://t.me/ibragimovs_blog" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
-  </a>
-    <a href="https://leetcode.com/u/ibragimov_05/" target="_blank">
+        <a href="https://leetcode.com/u/ibragimov_05/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
   </a>
+  <a href="ibragimovfazliddin17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  
+  </a>
+    
     
 </div>
 
