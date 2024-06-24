@@ -29,7 +29,7 @@
         <a href="https://leetcode.com/u/ibragimov_05/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
   </a>
-  <a href="ibragimovfazliddin17@gmail.com">
+  <a href="mailto:ibragimovfazliddin17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   
   </a>
