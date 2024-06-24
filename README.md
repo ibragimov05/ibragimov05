@@ -66,8 +66,3 @@
 <img width=600 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov05&layout=compact&bg_color=00000000" alt="top langs" />
 </div>
 <br/>
-  
-
-<br/><br/>
-
-<br/>
