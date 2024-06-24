@@ -10,11 +10,13 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Flutter**
+🌱 I’m currently learning ***Flutter***
 
-💬 Ask me about **Flutter, Dart, Firebase, Python**
+💬 Ask me about ***Flutter, Dart, Firebase, Python***
 
-⚡ Fun fact **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae nulla eu mi condimentum venenatis. Nulla facilisi.**
+⚡ Fun fact **Lorem ipsum dolor sit amet, consectetur adipiscing elit.**
+
+  **Maecenas vitae nulla eu mi condimentum venenatis. Nulla facilisi.**
 
  </div>
  
@@ -25,6 +27,13 @@
   <a href="https://linkedin.com/in/fazliddin-ibragimov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://t.me/ibragimovs_blog" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://leetcode.com/u/ibragimov_05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
+  </a>
+    
 </div>
 
  <hr/>
@@ -32,7 +41,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,github,figma,git,python,firebase,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,github,git,androidstudio,vscode,figma" />
 </div>
 
 <br/>
