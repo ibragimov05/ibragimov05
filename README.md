@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fazliddin
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💡 My blog [channel](https://t.me/ibragimovs_blog)
 - 📫 How to reach me? Through [telegram](https://t.me/Fazliddin3303)
 - ⚡ Fun fact: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae nulla eu mi condimentum venenatis. Nulla facilisi. 
 
