@@ -42,7 +42,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,github,git,androidstudio,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,github,git,androidstudio,vscode,ubuntu,linux,figma" />
 </div>
 
 <br/>
