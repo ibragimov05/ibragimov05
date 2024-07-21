@@ -61,9 +61,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img width=600 <img src="https://streak-stats.demolab.com?user=ibragimov05&theme=tokyonight&border_radius=10" alt="GitHub Streak" alt="streak stats"/>
+ <img width=500 <img src="https://streak-stats.demolab.com?user=ibragimov05&theme=tokyonight&border_radius=10" alt="GitHub Streak" alt="streak stats"/>
   <br/>
  
-<img width=600 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov05&layout=compact&bg_color=00000000" alt="top langs" />
+<img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov05&layout=compact&bg_color=00000000" alt="top langs" />
 </div>
 <br/>
