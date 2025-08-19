@@ -1,3 +1,4 @@
-* 👋 Hi, I’m Fazliddin
-* 👀 I’m interested in watching cartoons
-* 📫 How to reach me: [Telegram](https://t.me/IbragimovFazliddin), [Email](mailto:ibragimovfazliddin17@gmail.com)
+* 👋 As-salamu alaykum, I’m Fazliddin
+* 💻 Software Engineer
+* 🚀 Languages & Frameworks: Flutter/Dart, Python
+* 📫 How to reach me: [Telegram](https://t.me/FazliddinIbragimov), [Email](mailto:ibragimovfazliddin17@gmail.com)
